@@ -1,0 +1,14 @@
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.csprojAssemblyReference.cache
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.AssemblyInfoInputs.cache
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.AssemblyInfo.cs
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\TestingMRZScannerLibrary.deps.json
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\TestingMRZScannerLibrary.runtimeconfig.json
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\TestingMRZScannerLibrary.runtimeconfig.dev.json
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\TestingMRZScannerLibrary.dll
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\TestingMRZScannerLibrary.pdb
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\MRZScannerLibrary.dll
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\bin\Debug\netcoreapp2.2\MRZScannerLibrary.pdb
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.csproj.CopyComplete
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.dll
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\TestingMRZScannerLibrary\obj\Debug\netcoreapp2.2\TestingMRZScannerLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\bin\Release\netcoreapp2.2\MRZScannerLibrary.deps.json
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\bin\Release\netcoreapp2.2\MRZScannerLibrary.dll
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\bin\Release\netcoreapp2.2\MRZScannerLibrary.pdb
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.AssemblyInfoInputs.cache
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.AssemblyInfo.cs
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.dll
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.pdb
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\bin\Release\netcoreapp2.2\MRZScannerLibrary.xml
+C:\Users\yubarbeu\Documents\MRZScannerLibrary\MRZScannerLibrary\obj\Release\netcoreapp2.2\MRZScannerLibrary.csprojAssemblyReference.cache

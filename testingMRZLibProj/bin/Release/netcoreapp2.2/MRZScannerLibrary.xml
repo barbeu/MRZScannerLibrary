@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MRZScannerLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:MRZScannerLibrary.ApiHttpClient._httpClient">
+            Http client
+        </member>
+        <member name="F:MRZScannerLibrary.ApiHttpClient.MainUrlServer">
+            Url main server ABBYY Cloud OCR SDK 
+        </member>
+        <member name="F:MRZScannerLibrary.ApiHttpClient.ProcessEndpoint">
+            Endpoint processMRZ Method
+        </member>
+        <member name="F:MRZScannerLibrary.ApiHttpClient.TaskStatusEndpoint">
+            Endpoint getTaskStatus Method
+        </member>
+        <member name="M:MRZScannerLibrary.ApiHttpClient.getProcessMRZ">
+            Full processMRZ url
+        </member>
+        <member name="M:MRZScannerLibrary.ApiHttpClient.getTaskStatus">
+            Full task status url
+        </member>
+        <member name="M:MRZScannerLibrary.ApiHttpClient.SendScannPassportToServer(System.Byte[],System.String)">
+            <summary>
+            Шаг 1 - Отправить скан паспорта на сервер для начала обработки
+            </summary>
+        </member>
+        <member name="M:MRZScannerLibrary.ApiHttpClient.GetLinkTask(System.String,System.String)">
+            <summary>
+            Шаг 2 - Если обработка паспорта завершена успешно, взять ссылку на сканированные данные 
+            </summary>
+        </member>
+        <member name="M:MRZScannerLibrary.ApiHttpClient.GetDocumentData(System.String)">
+            <summary>
+            Шаг 3 - Взять сканированные данные с сервера
+            </summary>
+        </member>
+        <member name="T:MRZScannerLibrary.Models.document">
+            <remarks/>
+        </member>
+        <member name="P:MRZScannerLibrary.Models.document.field">
+            <remarks/>
+        </member>
+        <member name="P:MRZScannerLibrary.Models.document.type">
+            <remarks/>
+        </member>
+        <member name="T:MRZScannerLibrary.Models.documentField">
+            <remarks/>
+        </member>
+        <member name="P:MRZScannerLibrary.Models.documentField.value">
+            <remarks/>
+        </member>
+        <member name="P:MRZScannerLibrary.Models.documentField.type">
+            <remarks/>
+        </member>
+        <member name="T:MRZScannerLibrary.Models.NewDataSet">
+            <remarks/>
+        </member>
+        <member name="P:MRZScannerLibrary.Models.NewDataSet.Items">
+            <remarks/>
+        </member>
+        <member name="F:MRZScannerLibrary.MRZScannerLibrary.ApplicationName">
+            Application name
+        </member>
+        <member name="F:MRZScannerLibrary.MRZScannerLibrary.ApplicationPassword">
+            Application password
+        </member>
+        <member name="P:MRZScannerLibrary.MRZScannerLibrary.isScanCompleted">
+            <summary>
+            Указывает завершено ли сканирование документа
+            </summary>        
+        </member>
+        <member name="P:MRZScannerLibrary.MRZScannerLibrary.isScanSuccessCompleted">
+            <summary>
+            Указывает успешно ли завершено сканирование документа
+            </summary>
+        </member>
+        <member name="P:MRZScannerLibrary.MRZScannerLibrary.documentData">
+            <summary>
+            Данные сканированные с документа
+            </summary>
+        </member>
+        <member name="P:MRZScannerLibrary.MRZScannerLibrary.ExeptionMessage">
+            <summary>
+            В случае неудачного сканирования документа сообщение об ошибке
+            </summary>
+        </member>
+        <member name="M:MRZScannerLibrary.MRZScannerLibrary.StartScan(System.Byte[],System.Action)">
+            <summary>
+            Запустить сканирование
+            </summary>
+            <param name="image">Скан паспорта</param>
+        </member>
+    </members>
+</doc>
