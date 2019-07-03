@@ -11,8 +11,8 @@ namespace testingMRZLibProj
             MRZScannerLibrary.MRZScannerLibrary test =
                  new MRZScannerLibrary.MRZScannerLibrary("My_app_testProcessMRZ", "Y5J5xYPvDyVRBGR47dfh76kc");
 
-            byte[] image = File.ReadAllBytes("C:\\Users\\yubarbeu\\Desktop\\240px-Lauda,_Niki_1973-07-06.webp");    //CRASH
-            //byte[] image = File.ReadAllBytes("C:\\Users\\yubarbeu\\Desktop\\Passports\\1.jpg");                   //SUCCESS
+            //byte[] image = File.ReadAllBytes("C:\\Users\\yubarbeu\\Desktop\\240px-Lauda,_Niki_1973-07-06.webp");    //CRASH
+            byte[] image = File.ReadAllBytes("C:\\Users\\yubarbeu\\Desktop\\Passports\\5.jpg");                   //SUCCESS
 
             //////////////////////////
             /// Пример использования без каллбэка

@@ -158,6 +158,9 @@ namespace MRZScannerLibrary
 
         private void setDateOfBirth(string dateOfBirthStr)
         {
+            if (dateOfBirthStr == "")
+                return;
+
             this.documentData.DateOfBirth.Year = dateOfBirthStr.Substring(0, 2);
             this.documentData.DateOfBirth.Month = dateOfBirthStr.Substring(2, 2);
             this.documentData.DateOfBirth.Day = dateOfBirthStr.Substring(4, 2);
@@ -165,6 +168,9 @@ namespace MRZScannerLibrary
 
         private void setSerialDocNumber(string docNumber)
         {
+            if (docNumber == "")
+                return;
+
             switch(documentData.Nationality)
             {
                 case "RUS":
@@ -178,7 +184,13 @@ namespace MRZScannerLibrary
 
         private void setDocNumber(string docNumber)
         {
-            this.documentData.SeriesPassportNumber = docNumber.Substring(0, 2);
+            if (docNumber == "")
+                return;
+
+            this.documentData.SeriesPassportNumber = docNumber.Substring(0, 3);
+
+            if (this.documentData != null && this.documentData.PersonalNumber != null)
+                this.documentData.SeriesPassportNumber += this.documentData.PersonalNumber.Substring(0, 1);
         }
 
         private string GetConcatAuthData()

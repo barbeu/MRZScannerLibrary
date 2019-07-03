@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MRZScannerLibrary.Models
 {
-    public struct DateOfBirthSctruct
+    public struct DateOfBirthStruct
     {
         public string Day { get; set; }
         public string Month { get; set; }

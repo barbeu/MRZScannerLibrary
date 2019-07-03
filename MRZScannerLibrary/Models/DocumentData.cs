@@ -54,7 +54,7 @@ namespace MRZScannerLibrary.Models
 
         public string Checksum { get; set; }
 
-        public DateOfBirthSctruct DateOfBirth;
+        public DateOfBirthStruct DateOfBirth;
 
         public string SeriesPassportNumber { get; set; }
 
